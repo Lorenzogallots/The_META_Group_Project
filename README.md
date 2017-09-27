@@ -1,2 +1,2 @@
-# The_META_Group_Project
-Day 00
+# The_M(ETA)_Group_Project
+Day 01
