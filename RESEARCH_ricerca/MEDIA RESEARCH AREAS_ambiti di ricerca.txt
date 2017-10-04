@@ -1,9 +1,9 @@
-01. history
-02. law & regulations
-03. technical aspects
-04. perception
-05. economic and industrial aspects
-07. semiotics
-08. social network
-09. abuse
+01. history (Lorenzo)
+02. law & regulations (Lorenzo)
+03. technical aspects (Come agire/Come tutelarsi_Emanuele)
+04. perception (TUTTI)
+05. economic and industrial aspects (Francesco)
+07. semiotics (Francesco)
+08. social network (Emanuele)
+09. abuse (Ifei)
 10. 
